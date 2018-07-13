@@ -1,0 +1,13 @@
+
+Latency averages over 100 popular sites
+
+AT 	AD 	BL 	AVERAGE
+
+1	1	0	1688.06
+1	0	1	1458.49 (new)
+1 	1	1	1407.52
+0	1	1	615.45 (new)
+0	0	0	686.86
+0	0	1	588.80
+Paused:                 663.99
+0 	1 	1
